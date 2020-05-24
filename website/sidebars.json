@@ -1,0 +1,21 @@
+{
+    "docs": {
+        "Docusaurus": ["doc1"],
+        "First Category": ["doc2"],
+        "1 Category": ["doc3", "doc1"]
+
+    },
+    "docs-other": {
+        "First Category": ["doc4", "doc5"],
+        "Digital": ["doc1"]
+    },
+    "digital": {
+        "First Category": ["doc4", "doc5"],
+        "Digital": ["doc1"]
+    },
+    "Puneet": {
+        "First Category": ["doc4", "doc5"],
+        "Digital": ["doc1"]
+    }
+
+}
