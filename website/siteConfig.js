@@ -13,8 +13,8 @@ const users = [{
     caption: 'User1',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
+    image: 'img/undraw_open_source.svg',
+    infoLink: 'https://www.uxdevotion.com',
     pinned: true,
 }, ];
 
@@ -26,6 +26,8 @@ const siteConfig = {
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
+    url: 'https://github.com/CreativePS',
+    baseUrl: '/UXDevotion/',
 
     // Used for publishing and more
     projectName: 'UXDevotion',

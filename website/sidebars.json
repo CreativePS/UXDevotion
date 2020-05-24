@@ -6,15 +6,15 @@
 
     },
     "docs-other": {
-        "First Category": ["doc4", "doc5"],
-        "Digital": ["doc1"]
+        "First Category": ["doc1", "doc5"],
+        "Digital": ["doc2"]
     },
     "digital": {
-        "First Category": ["doc4", "doc5"],
-        "Digital": ["doc1"]
+        "First Category": ["doc4", "doc1"],
+        "Digital": ["doc3"]
     },
     "Puneet": {
-        "First Category": ["doc4", "doc5"],
+        "UX": ["doc4", "doc5"],
         "Digital": ["doc1"]
     }
 
